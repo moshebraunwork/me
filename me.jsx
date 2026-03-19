@@ -7,7 +7,7 @@ import {
 import { motion, AnimatePresence } from "framer-motion";
 
 // ── Replace with your key from https://web3forms.com ──
-const WEB3FORMS_KEY = "YOUR_WEB3FORMS_ACCESS_KEY";
+const WEB3FORMS_KEY = "3c4ffeb0-0c6a-4142-88d6-db2e6b4bcd0b";
 
 export default function Home() {
   const [scrollY, setScrollY] = useState(0);
