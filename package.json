@@ -17,6 +17,8 @@
     "vite": "^8.0.1"
   },
   "scripts": {
-    "start": "parcel index.html --open"
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   }
 }
